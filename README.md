@@ -4,20 +4,6 @@ A comprehensive Django REST Framework (DRF) project covering core DRF concepts *
 
 ---
 
-## Table of Contents
-
-- [Project Overview](#project-overview)  
-- [Features Covered](#features-covered)  
-- [Getting Started](#getting-started)  
-- [Installation](#installation)  
-- [Usage](#usage)  
-- [API Endpoints](#api-endpoints)  
-- [Technologies Used](#technologies-used)  
-- [Contributing](#contributing)  
-- [License](#license)  
-
----
-
 ## Project Overview
 
 This project demonstrates how to build RESTful APIs using Django REST Framework. It is designed as a learning resource for anyone who wants to understand DRF in-depth, with examples for:
